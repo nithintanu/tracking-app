@@ -1,0 +1,50 @@
+.navbar {
+  background-color: #ccffe6;
+  padding: 20px;
+  border-radius: 10px;
+  margin-left: 100px;
+  width: 600px;
+  margin-top: 50px;
+  display: flex;
+  float: right;
+  margin-right: 400px;
+  
+  /* justify-content: center; */
+ 
+}
+img{
+ 
+  
+}
+
+.nav-menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav-item {
+  margin-right: 15px;
+  height: 40px;
+  text-align: right;
+  
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+  padding: 20px;
+  
+}
+
+.nav-link:hover {
+  background-color: #555;
+}
+
+a{
+ 
+  font-size: 35px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
